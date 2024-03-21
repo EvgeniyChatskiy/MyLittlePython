@@ -37,6 +37,7 @@ def test_step3(login, password, submit, result, site, create_new_post_btn):
     btn1.click()
     btn2 = site.find_element('css', create_new_post_btn)
     btn2.click()
+    time.sleep(testdata['sleep_time'])
     input3 = site.find_element('xpath', '//*[@id="create-item"]/div/div/div[1]/div/label/input')
     input3.send_keys("My Title")
     btn3 = site.find_element('css', '#create-item > div > div > div:nth-child(7) > div > button > span')
