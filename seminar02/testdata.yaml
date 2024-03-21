@@ -1,0 +1,7 @@
+address: 'https://test-stand.gb.ru/login'
+browser: 'chrome'
+driver_path: './chromedriver.exe'
+sleep_time: 2
+implicitly_wait: 2
+login: 'maxecho228'
+password: 'a422eef197'
