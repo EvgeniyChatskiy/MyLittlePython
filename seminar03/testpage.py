@@ -46,7 +46,6 @@ class OperationsHelper(BasePage):
         logging.info("Click login button")
         self.find_element(TestSearchLocators.LOCATOR_LOGIN_BTN).click()
 
-
     def login(self, login, passwd):
         self.enter_login(login)
         self.enter_pass(passwd)
