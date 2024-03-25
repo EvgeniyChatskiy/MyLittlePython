@@ -1,0 +1,12 @@
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+implicitly_wait: 4
+login: maxecho228
+password: a422eef197
+title: Title
+description: Description
+content: Content
+contact_name: User
+contact_email: Test@test.com
+contact_content: Content
