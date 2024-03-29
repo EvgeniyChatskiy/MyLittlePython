@@ -1,0 +1,22 @@
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+implicitly_wait: 4
+login: maxecho228
+password: a422eef197
+title: Title
+description: Description
+content: Content
+contact_name: User
+contact_email: Test@test.com
+contact_content: Content
+website1: https://test-stand.gb.ru/gateway/login
+website_get_posts: https://test-stand.gb.ru/api/posts
+website_create_post: https://test-stand.gb.ru/gateway/posts
+title_test_rest: New post python
+title_create_rest: New post python
+description_create_rest: new post
+content_create_rest: content
+from_email: mostadont256@mail.ru
+to_email: mostadont256@mail.ru
+pass_email: 0pBafrQbLuLUSGd3iQ3x

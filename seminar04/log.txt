@@ -1,0 +1,35 @@
+2024-03-29 16:34:28 INFO + ====== WebDriver manager ======
+2024-03-29 16:34:29 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:34:29 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:34:30 INFO + Driver [C:\Users\Solon\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-29 16:34:31 INFO + Test1 Starting
+2024-03-29 16:34:33 INFO + Send test to element //*[@id="login"]/div[1]/label/input
+2024-03-29 16:34:33 INFO + Send test to element //*[@id="login"]/div[2]/label/input
+2024-03-29 16:34:33 INFO + Click login button
+2024-03-29 16:34:34 INFO + We found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-03-29 16:34:40 INFO + ====== WebDriver manager ======
+2024-03-29 16:34:41 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:34:41 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:34:42 INFO + Driver [C:\Users\Solon\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-29 16:34:43 INFO + Test2 Starting
+2024-03-29 16:34:45 INFO + Send maxecho228 to element //*[@id="login"]/div[1]/label/input
+2024-03-29 16:34:45 INFO + Send a422eef197 to element //*[@id="login"]/div[2]/label/input
+2024-03-29 16:34:45 INFO + Click login button
+2024-03-29 16:34:54 INFO + ====== WebDriver manager ======
+2024-03-29 16:34:54 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:34:55 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:34:55 INFO + Driver [C:\Users\Solon\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-29 16:34:56 INFO + Test3 Starting
+2024-03-29 16:34:58 INFO + Send maxecho228 to element //*[@id="login"]/div[1]/label/input
+2024-03-29 16:34:58 INFO + Send a422eef197 to element //*[@id="login"]/div[2]/label/input
+2024-03-29 16:34:58 INFO + Click login button
+2024-03-29 16:35:05 INFO + We found text Title on the page of the post
+2024-03-29 16:35:11 INFO + ====== WebDriver manager ======
+2024-03-29 16:35:11 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:35:12 INFO + Get LATEST chromedriver version for google-chrome
+2024-03-29 16:35:12 INFO + Driver [C:\Users\Solon\.wdm\drivers\chromedriver\win64\123.0.6312.86\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-29 16:35:16 INFO + Send maxecho228 to element //*[@id="login"]/div[1]/label/input
+2024-03-29 16:35:16 INFO + Send a422eef197 to element //*[@id="login"]/div[2]/label/input
+2024-03-29 16:35:16 INFO + Click login button
+2024-03-29 16:35:28 INFO + We have got posts
+2024-03-29 16:35:31 INFO + New post was created
