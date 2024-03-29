@@ -47,7 +47,7 @@ def test_user_can_create_post(browser):
     testpage.save_post()
     testpage.find_element(TestSearchLocators.LOCATOR_POST_IMAGE)
     post_title = testpage.find_element(TestSearchLocators.LOCATOR_POST_TITLE).text
-    logging.info(f"We found text {post_title} on the page of the post")
+    logging.info(f"The text '{post_title}' on the page was successfully found!~")
     assert post_title == testdata['title']
 
 
@@ -63,4 +63,4 @@ def test_check_contact_us(browser):
     contact_page.submit_form()
     time.sleep(2)
     text = contact_page.get_text_from_alert()
-    assert text == 'Form successfully submitted'
+    assert text == 'Form successfully submitted!~'
